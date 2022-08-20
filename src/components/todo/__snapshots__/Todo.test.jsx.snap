@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Todo компонент  1`] = `
+<ul>
+  <li>
+    <button>
+      x
+    </button>
+    <p>
+      todo one
+    </p>
+  </li>
+  <li>
+    <button>
+      x
+    </button>
+    <p>
+      todo two
+    </p>
+  </li>
+  <li>
+    <button>
+      x
+    </button>
+    <p>
+      todo three
+    </p>
+  </li>
+</ul>
+`;
+
+exports[`Todo компонент Проверка создания копонента Todo с данными 1`] = `
+<ul>
+  <li>
+    <button>
+      x
+    </button>
+    <p>
+      todo one
+    </p>
+  </li>
+  <li>
+    <button>
+      x
+    </button>
+    <p>
+      todo two
+    </p>
+  </li>
+  <li>
+    <button>
+      x
+    </button>
+    <p>
+      todo three
+    </p>
+  </li>
+</ul>
+`;
